@@ -1,0 +1,7 @@
+com\springboot\app\productos\SpringbootServicioProductosApplication.class
+com\springboot\app\productos\models\entity\repository\ProductoRepository.class
+com\springboot\app\productos\controller\ProductoController.class
+com\springboot\app\productos\models\entity\service\IProductoService.class
+com\springboot\app\productos\models\entity\Producto$ProductoBuilder.class
+com\springboot\app\productos\models\entity\service\ProductoServiceImpl.class
+com\springboot\app\productos\models\entity\Producto.class
