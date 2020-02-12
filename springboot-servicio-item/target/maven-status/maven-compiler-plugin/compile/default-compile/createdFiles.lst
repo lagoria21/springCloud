@@ -1,0 +1,11 @@
+com\springboot\app\item\clientes\ProductoClienteRest.class
+com\springboot\app\item\models\service\ItemServiceFeign.class
+com\springboot\app\item\models\service\ItemServiceImpl.class
+com\springboot\app\item\AppConfig.class
+com\springboot\app\item\controller\ItemController.class
+com\springboot\app\item\models\Producto.class
+com\springboot\app\item\models\Item$ItemBuilder.class
+com\springboot\app\item\models\Producto$ProductoBuilder.class
+com\springboot\app\item\models\service\ItemService.class
+com\springboot\app\item\models\Item.class
+com\springboot\app\item\SpringbootServicioItemApplication.class
